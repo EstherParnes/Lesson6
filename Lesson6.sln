@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddAProject", "AddAProject\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetRename_Lesson6", "dotnetRename_Lesson6\dotnetRename_Lesson6.csproj", "{B2EEE97C-F95D-4AC3-9C09-16E8180C441C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atara_Tamar", "Atara_Tamar\Atara_Tamar.csproj", "{9B6A86A7-0020-4400-B619-07AD755BB44D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B2EEE97C-F95D-4AC3-9C09-16E8180C441C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2EEE97C-F95D-4AC3-9C09-16E8180C441C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2EEE97C-F95D-4AC3-9C09-16E8180C441C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B6A86A7-0020-4400-B619-07AD755BB44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6A86A7-0020-4400-B619-07AD755BB44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6A86A7-0020-4400-B619-07AD755BB44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6A86A7-0020-4400-B619-07AD755BB44D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

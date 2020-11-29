@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6Rename", "Lesson6\Lesson6Rename.csproj", "{91D255EC-1CB4-4D7E-A7D4-5D02B7DE1E46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6", "Lesson6\Lesson6.csproj", "{91D255EC-1CB4-4D7E-A7D4-5D02B7DE1E46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenameAddAProject", "AddAProject\RenameAddAProject.csproj", "{B2926A80-AF9A-460A-9310-9C4CADD5025B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddAProject", "AddAProject\AddAProject.csproj", "{B2926A80-AF9A-460A-9310-9C4CADD5025B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
